@@ -1,6 +1,6 @@
 // network.js contiene las rutas
 import { Router } from "express";
-import * as Controller from "./controller.js"
+import * as Controller from "./controller"
 
 //Variable que instancia a ROUTER
 const userRouter:Router = Router()
